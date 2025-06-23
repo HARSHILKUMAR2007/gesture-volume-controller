@@ -1,0 +1,7 @@
+cv2 (opencv-python)
+mediapipe
+numpy
+math (built-in, not required in requirements.txt)
+comtypes
+pycaw
+ctypes (built-in, not required in requirements.txt)
